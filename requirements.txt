@@ -1,0 +1,4 @@
+pandas
+numpy
+stable-baselines3
+streamlit
